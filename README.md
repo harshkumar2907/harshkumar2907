@@ -16,7 +16,6 @@ I'm a passionate developer focused on building efficient solutions and exploring
 
 ### 📈 My GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshkumar2907&show_icons=true&theme=radical)
-
 ---
 
 ### 📫 Connect with me:
