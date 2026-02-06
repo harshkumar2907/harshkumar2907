@@ -1,4 +1,4 @@
-# Hi there! I'm [Harsh Kumar] 👋 
+# Hi there! I'm Harsh Kumar 👋 
 ### 🎓 Computer Science Student at IIT (BHU) Varanasi
 
 I'm a passionate developer focused on building efficient solutions and exploring the global tech landscape. 
