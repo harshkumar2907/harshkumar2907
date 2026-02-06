@@ -7,7 +7,7 @@ I'm a passionate developer focused on building efficient solutions and exploring
 - 🇫🇷 Language Journey: **French (Level A1-A2)** — *Targeting B2 by graduation*
 - 🎯 Goal: Software Engineering opportunities in Europe 🇪🇺
 - ⚡ Fun fact: I believe clear code is like a good poem.
-- "Inspired by the intersection of art and engineering (Hedy Lamarr fan!)."
+- Inspired by the intersection of art and engineering (Hedy Lamarr fan!).
 
 ---
 
